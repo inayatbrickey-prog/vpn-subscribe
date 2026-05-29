@@ -1,8 +1,8 @@
 # VPN Subscription
 
 ## 🔗 Links
-- **Website**: https://YOUR_USERNAME.github.io/vpn-subscribe/
-- **Subscription**: https://YOUR_USERNAME.github.io/vpn-subscribe/subscribe.txt
+- **Website**: https://inayatbrickey-prog.github.io/vpn-subscribe/
+- **Subscription**: https://inayatbrickey-prog.github.io/vpn-subscribe/subscribe.txt
 
 ## 🚀 Servers
 - 🇸🇪 Sweden: 51.20.114.186
